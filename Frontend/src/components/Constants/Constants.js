@@ -1,3 +1,3 @@
 import { io } from "socket.io-client";  
-export const BASEURL = "http://localhost:4000/api";
-export const socket = io("http://localhost:4000");
+export const BASEURL = "http://edurika.online/api";
+export const socket = io("http://edurika.online/api");
