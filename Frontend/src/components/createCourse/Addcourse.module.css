@@ -1,0 +1,17 @@
+.maincenter {
+  border-radius: 10px;
+  margin: auto;
+  width: 60%;
+  border: 1px solid #C3073F;
+  padding: 10px;
+}
+
+.textBg{
+    background-color: aliceblue;
+}
+
+body{
+    background-color: rgb(6, 7, 32);
+
+}
+

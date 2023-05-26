@@ -1,0 +1,24 @@
+.dashCard{
+    
+    
+    background: rgb(111, 34, 50);
+    background: linear-gradient(217deg, rgb(21, 10, 49) 1%, rgba(0, 0, 0, 1) 98%);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    flex-flow: column;
+    align-items: center;
+  
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+
+/* @media screen and (max-width: 600px) {
+    body {
+
+    }
+  } */

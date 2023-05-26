@@ -1,0 +1,17 @@
+.SignupDiv{
+    display: flex;
+    justify-content: space-around  ;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    
+}
+
+.Alreadyuser{
+    text-decoration: none;
+    color: #C2073F;
+}
+
+form{
+color: rgb(148, 151, 154);
+}

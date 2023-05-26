@@ -1,0 +1,24 @@
+.Coursecard {
+
+    background: rgb(111, 34, 50);
+    background: linear-gradient(217deg, rgba(111, 34, 50, 1) 1%, rgba(0, 0, 0, 1) 98%);
+    border-radius: 15px;
+    font-family: inherit;
+    box-shadow: 5px 3px 2px black;
+
+
+}
+
+.description {
+    font-size: 14;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.letshover:hover {
+    transform: scale(1.1);
+}
+
+.letshover {
+    cursor: pointer;
+}
+

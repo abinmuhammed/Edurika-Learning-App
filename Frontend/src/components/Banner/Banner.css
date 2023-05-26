@@ -1,0 +1,25 @@
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+   */
+  /* .Banner {
+    max-width: 100%;
+  }
+  
+  @media (min-width: 992px) {
+    .Banner {
+      max-width: 900px;
+    }
+  }
+   */
+
+   .banner-container{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+ 
+
+   }

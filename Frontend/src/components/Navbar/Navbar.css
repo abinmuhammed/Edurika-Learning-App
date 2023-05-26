@@ -1,0 +1,37 @@
+.text-header{
+    color:#C3073F ;
+    font-family: irish Grover;
+    font-size: 30px;
+    font-weight: 500;
+
+}
+@media (min-width: 991px) {
+    /* CSS styles for larger screens */
+    .navbar-links{
+    
+        display: flex;
+        justify-content: flex-end;
+    }
+  }
+
+  .logopic{
+    width:90px;
+  }
+
+
+.noty{
+  padding-left: 7px;
+  padding-right: 7px;
+  font-weight: bolder;
+  border-radius: 50%;
+  background-color:#C3073F;
+  
+  color: white;
+  top: -10px;
+  /* color: green; */
+  right: -8px;
+  /* box-shadow: 1px 2px 1px #888888; */
+}
+
+
+  

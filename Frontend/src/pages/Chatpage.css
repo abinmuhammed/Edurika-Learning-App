@@ -1,0 +1,99 @@
+.messenger{
+    height: calc(100vh - 70px);
+    display: flex;
+    padding: 60px;
+}
+
+.chatMenu{
+    flex: 2.5;
+}
+
+.chatBox{
+    flex:3.5;
+    background-color: #040404;
+    border-radius: 15px;
+  
+}
+.chatOnline{
+flex: 2.5;
+}
+
+
+.chatMenuWrapper, .ChatBoxWrapper, .chatOnlineWrapper{
+padding: 10px;
+height: 100%;   
+}
+
+.ChatMenuInput{
+    background: transparent;
+    color: aliceblue;
+    width: 90%;
+    padding: 10px 0;
+    border: none;
+    border-bottom: 2px solid grey;
+}
+
+.ChatboxBottom{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ChatMessageInput{
+    width: 80%;
+    height: 50px;
+    padding: 10px;
+}
+
+.ChatSubmitButton{
+    width: 70px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color:#C3073F;
+    font-weight: 500;
+    cursor: pointer;
+}
+.ChatboxTop{
+height: 100%;
+overflow-y: scroll;
+padding-right: 10px;
+
+}
+
+.chatMenuWrapper{
+    border-right:1px solid #C3073F;
+    background-color: #20262B;
+    border-radius: 15px;
+
+}
+
+
+.ChatBoxWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  
+    border-right: 1px solid #C3073F;
+
+}
+
+.outer{
+    background-color: #C3073F;
+    justify-content: center;
+}
+.noConvo{
+    position: absolute;
+    top: 40%;
+    font-size: 30px;
+    font-weight: 500;
+    color: aliceblue;
+    opacity: 80%;
+}
+
+.chatOnlineWrapper{
+    background-color: #20262B;
+    border-radius: 15px;
+
+}

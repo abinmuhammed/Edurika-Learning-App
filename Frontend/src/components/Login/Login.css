@@ -1,0 +1,17 @@
+.LoginDiv{
+    display: flex;
+    justify-content: space-around  ;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+.forget{
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+     font-weight: 400;
+    cursor: pointer;
+}
+.forget:hover{
+    color:#C3073F;
+
+}
